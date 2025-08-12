@@ -68,16 +68,6 @@
 
 ---
 
-### 🐍 My Contribution Snake
-<p align="center">
-  <!-- Light / Dark mode support -->
-  <img src="https://raw.githubusercontent.com/AnishSaha07/AnishSaha07/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
-  <img src="https://raw.githubusercontent.com/AnishSaha07/AnishSaha07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
- 
-</p>
- ![snake gif](https://github.com/<your-username>/<repo-name>/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/anishsaha07)

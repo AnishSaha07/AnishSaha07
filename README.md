@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Passionate+in+Backend+Development;Always+Learning+and+Building;Delivering+Dedication+%26+Hard+Work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Passionate+in+Backend+Development;Looking+for+Opportunities+;To+Grow+And+ Learn" alt="Typing SVG" />
   </a>
 </p>
 
@@ -73,9 +73,9 @@
   <!-- Light / Dark mode support -->
   <img src="https://raw.githubusercontent.com/AnishSaha07/AnishSaha07/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
   <img src="https://raw.githubusercontent.com/AnishSaha07/AnishSaha07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
-  ![snake gif](https://github.com/<your-username>/<repo-name>/blob/output/github-contribution-grid-snake.svg)
-
+ 
 </p>
+ ![snake gif](https://github.com/<your-username>/<repo-name>/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
